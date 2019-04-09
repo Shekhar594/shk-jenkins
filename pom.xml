@@ -33,7 +33,7 @@ THE SOFTWARE.
   </parent>
 
   <groupId>org.jenkins-ci.main</groupId>
-  <artifactId>jenkins-parent</artifactId>
+  <artifactId>jenkins-parent1</artifactId>
   <version>${revision}${changelist}</version>
   <packaging>pom</packaging>
 
